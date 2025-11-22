@@ -17,3 +17,5 @@ git push origin main
 git pull origin main
 
 git clone https://github.com/SorKor2003/besic_python_68_2.git
+
+git commit -m "set git and change line"
