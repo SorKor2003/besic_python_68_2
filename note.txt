@@ -1,0 +1,17 @@
+cd
+ls
+pwd
+
+git clone https://github.com/SorKor2003/besic_python_68_2.git
+
+git init
+git remote add origin https://github.com/SorKor2003/besic_python_68_2.git
+
+git config --global user.name "your name"
+git config --global user.email "your name"
+
+git add ,
+git commit -m "Message"
+git push origin main
+
+git pull origin main
